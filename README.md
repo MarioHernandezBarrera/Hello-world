@@ -1,2 +1,2 @@
 # Hello-world
-Repositorio de pruena
+Repositorio de prueba
